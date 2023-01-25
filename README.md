@@ -66,8 +66,8 @@
     <ul>
     <li><p>⌨️ Mechanical Keyboards</p></li>
     <li><p>🎧 Headphones</p></li>
+    <li><p>📻 Amateur Radio (call sign: AI7QC)</p></li>
     <li><p>🤖 Artificial Intelligence and Machine Learning</p></li>
-    <li><p>📝 Smart Contract Development on the Blockchain</p></li>
     </ul>
 </details>
 

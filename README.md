@@ -11,7 +11,6 @@
 [![Twitter: ThisIsKelvinLin](https://img.shields.io/twitter/url/https/twitter.com/ThisIsKelvinLin.svg?style=social&label=ThisIsKelvinLin)](https://twitter.com/ThisIsKelvinLin)
 [![Medium: @kelvin.lin](https://img.shields.io/badge/@kelvin.lin-black?style=square&logo=Medium&logoColor=white&link=https://medium.com/@kelvin.lin)](https://medium.com/@kelvin.lin)
 [![Github: KelvinKKLin](https://img.shields.io/badge/KelvinKKLin-white?style=square&logo=GitHub&logoColor=black&link=https://github.com/kelvinkklin)](https://github.com/kelvinkklin)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kelvinkklin.kelvinkklin)
 
 </div>
 

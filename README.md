@@ -20,56 +20,40 @@
 <!-- Introduction -->
 ### I am a...
 - 👨‍💻 Software engineer developing network monitoring and alerting systems for datacenters.
-- 👨‍🎓 Georgia Tech alumni with a Master of Science in Computer Science.
+- 👨‍🎓 Georgia Tech graduate with a Master of Science in Computer Science.
 - 🌱 Licensed Professional Engineer (P.Eng) in Ontario, Certified Project Management Professional (PMP)®.
 - ⌨️ Mechanical keyboard enthusiast.
 
 <!-- Education -->
-<details>
-    <summary><h3 style="display:inline;">🎓 Education</h3></summary>
-    <ul>
-    <li><p><b>Master of Science</b> in Computer Science (Specialization in Machine Learning), Georgia Institute of Technology</p></li>
-    <li><p><b>Bachelor of Engineering and Management</b> in Software Engineering and Management (Co-op), McMaster University</p></li>
-    <li><p><b>Bachelor of Arts</b> in Economics, McMaster University</p></li>
-    </ul>
-</details>
+### 🎓 Education
+- **Master of Science** in Computer Science (Specialization in Machine Learning), Georgia Institute of Technology
+- **Bachelor of Engineering and Management** in Software Engineering and Management (Co-op), McMaster University
+- **Bachelor of Arts** in Economics, McMaster University
 
 <!-- Work Experience -->
-<details>
-    <summary><h3 style="display:inline;">💼 Work Experience</h3></summary>
-    <ul>
-    <li><p><b>Software Engineer II</b>, Microsoft Corporation (March 2022 – Present)</p></li>
-    <li><p><b>Software Engineer</b>, Microsoft Corporation (August 2019 – February 2022)</p></li>
-    <li><p><b>Teaching Assistant</b>, McMaster University (September 2016 – April 2019)</p></li>
-    <li><p><b>Software Engineering Intern</b>, Microsoft Corporation (May 2018 – August 2018)</p></li>
-    <li><p><b>Software Engineering Intern</b>, Syngli Inc. (May 2017 – August 2017)</p></li>
-    <li><p><b>CodeMakers Curriculum Coordinator</b>, Venture Engineering and Science at McMaster University (September 2015 – August 2016)</p></li>
-    <li><p><b>Lab Instructor</b>, Venture Engineering and Science at McMaster University (May 2015 – August 2015)</p></li>
-    <li><p><b>Computer Instructor</b>, LogicFusion Limited (March 2012 – August 2014)</p></li>
-    </ul>
-</details>
+### 💼 Work Experience
+- **Software Engineer II**, Microsoft Corporation (March 2022 – Present)
+- **Software Engineer**, Microsoft Corporation (August 2019 – February 2022)
+- **Teaching Assistant**, McMaster University (September 2016 – April 2019)
+- **Software Engineering Intern**, Microsoft Corporation (May 2018 – August 2018)
+- **Software Engineering Intern**, Syngli Inc. (May 2017 – August 2017)
+- **CodeMakers Curriculum Coordinator**, Venture Engineering and Science at McMaster University (September 2015 – August 2016)
+- **Lab Instructor**, Venture Engineering and Science at McMaster University (May 2015 – August 2015)
+- **Computer Instructor**, LogicFusion Limited (March 2012 – August 2014)
 
 <!-- Skills -->
-<details>
-<summary><h3 style="display:inline;">🛠️ Skills</h3></summary>
-<ul>
-<li><p><b>💻 Programming</b>: C#, Java, Python</p></li>
-<li><p><b>📈 Machine Learning and Data Science</b>: MATLAB, PyTorch, Scikit-Learn, Tableau</p></li>
-<li><p><b>🌐 Web Development</b>: HTML5, CSS3, JavaScript, TypeScript, NodeJS, REST API Development, Hugo</p></li>
-<li><p><b>💿 Databases</b>: SQL, Kusto Query Language, MongoDB</p></li>
-</ul>
-</details>
+### 🛠️ Skills
+- 💻 **Programming**: C#, Java, Python
+- 📈 **Machine Learning and Data Science**: MATLAB, PyTorch, Scikit-Learn, Tableau
+- 🌐 **Web Development**: HTML5, CSS3, JavaScript, TypeScript, NodeJS, REST API Development, Hugo
+- 💿 **Databases**: SQL, Kusto Query Language, MongoDB
 
 <!-- Hobbies and Interests -->
-<details>
-    <summary><h3 style="display:inline;">😁 Other Hobbies and Interests</h3></summary>
-    <ul>
-    <li><p>⌨️ Mechanical Keyboards</p></li>
-    <li><p>🎧 Headphones</p></li>
-    <li><p>📻 Amateur Radio (call sign: AI7QC)</p></li>
-    <li><p>🤖 Artificial Intelligence and Machine Learning</p></li>
-    </ul>
-</details>
+### 😁 Other Hobbies and Interests</summary>
+- ⌨️ Mechanical Keyboards
+- 🎧 Headphones
+- 📻 Amateur Radio (call sign: AI7QC)
+- 🤖 Artificial Intelligence and Machine Learning
 
 <!-- Ending Card -->
 ---

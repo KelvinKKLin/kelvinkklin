@@ -1,6 +1,6 @@
 <!-- Headers -->
 <h1 align="center" style="border-bottom:0px solid;">Hello World 🌐 I'm Kelvin!</h1>
-<h3 align="center">Software Engineer | M.S in CS Graduate from Georgia Tech</h3>
+<h3 align="center">Software Engineer | P.Eng (Ontario), PMP®, M.S in CS (Georgia Tech)</h3>
 
 <!-- Shield.io Badges -->
 <div align="center">
@@ -21,7 +21,7 @@
 ### I am a...
 - 👨‍💻 Software engineer developing network monitoring and alerting systems for datacenters.
 - 👨‍🎓 Georgia Tech alumni with a Master of Science in Computer Science.
-- 🌱 CCNA student looking to expand my knowledge of computer networking.
+- 🌱 Licensed Professional Engineer (P.Eng) in Ontario, Certified Project Management Professional (PMP)®.
 - ⌨️ Mechanical keyboard enthusiast.
 
 <!-- Education -->
@@ -30,7 +30,7 @@
     <ul>
     <li><p><b>Master of Science</b> in Computer Science (Specialization in Machine Learning), Georgia Institute of Technology</p></li>
     <li><p><b>Bachelor of Engineering and Management</b> in Software Engineering and Management (Co-op), McMaster University</p></li>
-    <li><p><b>Bachelor of Art</b> in Economics, McMaster University</p></li>
+    <li><p><b>Bachelor of Arts</b> in Economics, McMaster University</p></li>
     </ul>
 </details>
 

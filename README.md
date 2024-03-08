@@ -35,7 +35,7 @@
 - **Software Engineer**, Microsoft Corporation (August 2019 – February 2022)
 - **Teaching Assistant**, McMaster University (September 2016 – April 2019)
 - **Software Engineering Intern**, Microsoft Corporation (May 2018 – August 2018)
-- **Software Engineering Intern**, Syngli Inc. (May 2017 – August 2017)
+- **Software Development Intern**, Syngli Inc. (May 2017 – August 2017)
 - **CodeMakers Curriculum Coordinator**, Venture Engineering and Science at McMaster University (September 2015 – August 2016)
 - **Lab Instructor**, Venture Engineering and Science at McMaster University (May 2015 – August 2015)
 - **Computer Instructor**, LogicFusion Limited (March 2012 – August 2014)
